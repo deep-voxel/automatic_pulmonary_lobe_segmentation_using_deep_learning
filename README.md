@@ -4,6 +4,8 @@
 # AUTOMATIC PULMONARY LOBE SEGMENTATION USING DEEP LEARNING
 This is a repo for the 50 annotated CT scans for pulmonary lobe segmentation study. The paper has been accepted for the 2019 IEEE International Symposium on Biomedical Imaging (ISBI 2019).
 
+**Note:** The data is licensed for non-commercial use only.
+
 ## License
 
 Copyright (C) 2019 DEEPVOXEL Inc.  All rights reserved.
